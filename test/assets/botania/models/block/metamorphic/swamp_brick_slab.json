@@ -1,8 +1,0 @@
-{
-  "parent": "botania:block/shapes/slab",
-  "textures": {
-    "bottom": "botania:blocks/biomestone20_bottom",
-    "side": "botania:blocks/biomestone20",
-    "top": "botania:blocks/biomestone20_top"
-  }
-}

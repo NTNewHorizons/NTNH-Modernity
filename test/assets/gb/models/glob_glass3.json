@@ -1,6 +1,0 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "gb:blocks/glob_glass3"
-	}
-}

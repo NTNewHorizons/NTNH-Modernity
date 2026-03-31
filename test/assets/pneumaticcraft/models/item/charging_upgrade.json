@@ -1,7 +1,0 @@
-{
-  "parent" : "item/generated",
-  "textures" : {
-    "layer0" : "pneumaticcraft:items/upgrades/upgrade_layer0",
-    "layer1" : "pneumaticcraft:items/upgrades/charging"
-  }
-}

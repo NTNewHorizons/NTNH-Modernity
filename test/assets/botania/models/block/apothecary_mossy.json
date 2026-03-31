@@ -1,8 +1,0 @@
-{
-  "parent": "botania:block/shapes/petal_apothecary",
-  "textures": {
-    "bottom": "botania:model/apothecary/mossy_bottom",
-    "side": "botania:model/apothecary/mossy_side",
-    "top": "botania:model/apothecary/mossy_top"
-  }
-}

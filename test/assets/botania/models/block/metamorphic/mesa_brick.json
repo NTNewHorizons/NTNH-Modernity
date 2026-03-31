@@ -1,7 +1,0 @@
-{
-  "parent": "botania:block/shapes/cube_checkered",
-  "textures": {
-    "north": "botania:blocks/biomestone23_mirrored",
-    "side": "botania:blocks/biomestone23"
-  }
-}

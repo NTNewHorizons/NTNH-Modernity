@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "side": "mekanism:blocks/thermal_evaporation_block",
-        "top": "mekanism:blocks/thermal_evaporation_block_top",
-        "bottom": "mekanism:blocks/thermal_evaporation_block_top"
-    }
-}

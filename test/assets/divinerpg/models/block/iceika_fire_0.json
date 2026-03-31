@@ -1,7 +1,0 @@
-{
-  "parent": "block/fire_floor",
-  "textures": {
-    "fire": "divinerpg:blocks/iceika_fire_0",
-    "particle": "divinerpg:blocks/iceika_fire_0"
-  }
-}

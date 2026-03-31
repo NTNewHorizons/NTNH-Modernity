@@ -1,6 +1,0 @@
-{
-    "parent": "exnihilocreatio:block/mesh_base",
-    "textures": {
-        "texture": "exnihilocreatio:blocks/flint_mesh"
-    }
-}

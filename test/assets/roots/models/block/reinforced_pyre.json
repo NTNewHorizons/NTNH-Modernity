@@ -1,7 +1,0 @@
-{
-    "parent": "roots:block/pyre",
-	"textures": {
-		"particle": "roots:blocks/runed_obsidian",
-		"3": "roots:blocks/runed_obsidian"
-	}
-}

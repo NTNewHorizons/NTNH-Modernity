@@ -1,8 +1,0 @@
-{
-    "parent": "appliedenergistics2:item/part/interface",
-    "textures": {
-        "sides": "volumetricflask:parts/interface_sides",
-        "back": "volumetricflask:parts/interface_back",
-        "front": "volumetricflask:items/part/interface"
-    }
-}
