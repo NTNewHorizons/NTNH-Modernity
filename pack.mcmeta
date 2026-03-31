@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "NTM Vanilled support for NTM Space"
+    "description": "Backports modern textures to NTNH "
   }
 }
