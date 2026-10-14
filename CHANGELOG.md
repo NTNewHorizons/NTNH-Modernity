@@ -11,6 +11,12 @@
   - Dispenser and dropper directional side markings
   - Cauldron, composter, jukebox, and daylight detector CTM states
   - Target block 1..15 hit indicator rings
+- Integrated entity and RandomMobs variants:
+  - Special Mobs: 93 curated textures across 11 mob species (blaze, cavespider, creeper, enderman, ghast, silverfish, skeleton, slime, spider, witch, zombie)
+  - Better Squids: 88 depth and biome sensitive squid variants + base squid
+  - Creeper Overhaul: 18 curated 1.7.10-compatible creeper variants + night emissive eye overlays (_e.png)
+  - Tissou's Zombie Pack: 3,560+ textures covering zombies, husks, drowneds, zombie villagers with emissive eye layers (_e.png)
+  - Drodi Villagers: 81 profession and biome variants + upgraded Iron Golem texture
 
 # 2.1 Release
 
