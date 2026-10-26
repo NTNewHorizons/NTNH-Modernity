@@ -13,3 +13,4 @@ This resourcepack is built based on the following resources:
 
 [Modernity Extra (Unofficial)](https://www.curseforge.com/minecraft/texture-packs/unofficial-modernity-extra/) by margatroidu
 
+[Modernity-GTNH](https://github.com/ModernityGTNH/Modernity-GTNH) by many authors
